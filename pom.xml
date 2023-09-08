@@ -59,6 +59,6 @@
         <maven.compiler.source>17</maven.compiler.source> <!-- Versão correta do Java -->
         <maven.compiler.target>17</maven.compiler.target> <!-- Versão correta do Java -->
     </properties>
-    <name>br.apiprojetointegrador.ApiProjetoIntegrador</name>
+    <name>br.apiprojetointegrador</name>
 </project>
 

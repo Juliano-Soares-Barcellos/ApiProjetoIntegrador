@@ -13,11 +13,11 @@ import org.springframework.context.annotation.ComponentScan;
  * @author julianob
  */
 @SpringBootApplication
-@ComponentScan(basePackages = "br.apiprojetointegrador") // Adjust the package name accordingly
+@ComponentScan(basePackages = "br.apiprojetointegrador") 
 public class ApiProjetoIntegrador {
     public static void main(String[] args) {
         
-        System.setProperty("server.port", "7479");
+        System.setProperty("server.port", "7217");
         SpringApplication.run(ApiProjetoIntegrador.class, args);
     }
 }
